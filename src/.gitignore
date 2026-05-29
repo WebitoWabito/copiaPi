@@ -1,0 +1,11 @@
+*.o
+
+client
+server
+a.out
+
+*.out
+*.exe
+
+*~
+*.swp
