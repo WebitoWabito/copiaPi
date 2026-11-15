@@ -32,3 +32,4 @@ bool Bitmap::isUsed(int index) const {
 }
 
 //hola de prueba
+//segunda prueba
