@@ -12,6 +12,7 @@ int Bitmap::findFree() {
 }
 
 //This method marks a cluster as used
+
 void Bitmap::markUsed(int index) {
     map[index] = true;
 }
@@ -29,3 +30,5 @@ int Bitmap::getSize() const {
 bool Bitmap::isUsed(int index) const {
     return map[index];
 }
+
+//hola de prueba
